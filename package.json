@@ -34,7 +34,7 @@
     "gatsby-tinacms-json": "^0.8.20",
     "gatsby-tinacms-remark": "^0.7.15",
     "gatsby-transformer-json": "^2.2.15",
-    "gatsby-transformer-remark": "^2.6.30",
+    "gatsby-transformer-remark": "^5.25.1",
     "gatsby-transformer-sharp": "^2.2.23",
     "gsap": "^3.2.6",
     "lodash.clonedeep": "^4.5.0",
